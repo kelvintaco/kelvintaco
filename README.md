@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kelvin</h1>
-<h3 align="center">A Full Stack Developer from Etivac</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/inihawnaataymeduimrare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-clark-memije-72a185371/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memijekelvinclark@gmail.com) 
