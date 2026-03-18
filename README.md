@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kelvintaco</h1>
+<h1 align="center">Hi 👋, I'm kelvin</h1>
 <h3 align="center">A Full Stack Developer from Etivac</h3>
 
 ## 🌐 Socials:
